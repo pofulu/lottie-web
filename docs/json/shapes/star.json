@@ -28,10 +28,10 @@
       "description": "Star's position",
       "oneOf": [
         {
-          "$ref": "#/properties/multiDimensional"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/multiDimensional.json"
         },
         {
-          "$ref": "#/properties/multiDimensionalKeyframed"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/multiDimensionalKeyframed.json"
         }
       ],
       "type": "object"
@@ -41,10 +41,10 @@
       "description": "Star's inner radius. (Star only)",
       "oneOf": [
         {
-          "$ref": "#/properties/Value"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/Value.json"
         },
         {
-          "$ref": "#/properties/valueKeyframed"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
         }
       ],
       "type": "object"
@@ -54,10 +54,10 @@
       "description": "Star's inner roundness. (Star only)",
       "oneOf": [
         {
-          "$ref": "#/properties/Value"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/Value.json"
         },
         {
-          "$ref": "#/properties/valueKeyframed"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
         }
       ],
       "type": "object"
@@ -67,10 +67,10 @@
       "description": "Star's outer radius.",
       "oneOf": [
         {
-          "$ref": "#/properties/Value"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/Value.json"
         },
         {
-          "$ref": "#/properties/valueKeyframed"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
         }
       ],
       "type": "object"
@@ -80,10 +80,10 @@
       "description": "Star's outer roundness.",
       "oneOf": [
         {
-          "$ref": "#/properties/Value"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/Value.json"
         },
         {
-          "$ref": "#/properties/valueKeyframed"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
         }
       ],
       "type": "object"
@@ -93,10 +93,10 @@
       "description": "Star's rotation.",
       "oneOf": [
         {
-          "$ref": "#/properties/Value"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/Value.json"
         },
         {
-          "$ref": "#/properties/valueKeyframed"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
         }
       ],
       "type": "object"
@@ -106,10 +106,10 @@
       "description": "Star's number of points.",
       "oneOf": [
         {
-          "$ref": "#/properties/Value"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/Value.json"
         },
         {
-          "$ref": "#/properties/valueKeyframed"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
         }
       ],
       "type": "object"

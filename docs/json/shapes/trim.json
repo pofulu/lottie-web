@@ -23,10 +23,10 @@
       "description": "Trim Start.",
       "oneOf": [
         {
-          "$ref": "#/properties/Value"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/Value.json"
         },
         {
-          "$ref": "#/properties/valueKeyframed"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
         }
       ],
       "type": "object"
@@ -36,10 +36,10 @@
       "description": "Trim End.",
       "oneOf": [
         {
-          "$ref": "#/properties/Value"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/Value.json"
         },
         {
-          "$ref": "#/properties/valueKeyframed"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
         }
       ],
       "type": "object"
@@ -49,10 +49,10 @@
       "description": "Trim Offset.",
       "oneOf": [
         {
-          "$ref": "#/properties/Value"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/Value.json"
         },
         {
-          "$ref": "#/properties/valueKeyframed"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
         }
       ],
       "type": "object"

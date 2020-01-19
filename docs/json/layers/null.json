@@ -13,7 +13,7 @@
       "description": "Transform properties",
       "oneOf": [
         {
-          "$ref": "#/helpers/transform"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/helpers/transform.json"
         }
       ],
       "type": "object"
@@ -24,7 +24,7 @@
       "type": "number",
       "oneOf": [
         {
-          "$ref": "#/helpers/boolean"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/helpers/boolean.json"
         }
       ],
       "default": 0
@@ -35,7 +35,7 @@
       "type": "number",
       "oneOf": [
         {
-          "$ref": "#/helpers/boolean"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/helpers/boolean.json"
         }
       ],
       "default": 0
@@ -81,7 +81,7 @@
       "items": {
         "oneOf": [
           {
-            "$ref": "#/effects/index"
+            "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/index.json"
           }
         ],
         "type": "object"

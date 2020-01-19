@@ -3,49 +3,49 @@
   "type": "object",
   "oneOf": [
     {
-      "$ref": "#/effects/slider"
+      "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/slider.json"
     },
     {
-      "$ref": "#/effects/angle"
+      "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/angle.json"
     },
     {
-      "$ref": "#/effects/color"
+      "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/color.json"
     },
     {
-      "$ref": "#/effects/point"
+      "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/point.json"
     },
     {
-      "$ref": "#/effects/checkbox"
+      "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/checkbox.json"
     },
     {
-      "$ref": "#/effects/group"
+      "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/group.json"
     },
     {
-      "$ref": "#/effects/noValue"
+      "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/noValue.json"
     },
     {
-      "$ref": "#/effects/dropDown"
+      "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/dropDown.json"
     },
     {
-      "$ref": "#/effects/customValue"
+      "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/customValue.json"
     },
     {
-      "$ref": "#/effects/layerIndex"
+      "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/layerIndex.json"
     },
     {
-      "$ref": "#/effects/tint"
+      "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/tint.json"
     },
     {
-      "$ref": "#/effects/fill"
+      "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/fill.json"
     },
     {
-      "$ref": "#/effects/stroke"
+      "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/stroke.json"
     },
     {
-      "$ref": "#/effects/tritone"
+      "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/tritone.json"
     },
     {
-      "$ref": "#/effects/proLevels"
+      "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/proLevels.json"
     }
   ]
 }

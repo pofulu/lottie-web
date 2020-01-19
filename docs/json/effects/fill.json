@@ -28,25 +28,25 @@
       "description": "Effect List of properties.",
       "items": [
         {
-          "$ref": "#/effects/point"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/point.json"
         },
         {
-          "$ref": "#/effects/dropDown"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/dropDown.json"
         },
         {
-          "$ref": "#/effects/color"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/color.json"
         },
         {
-          "$ref": "#/effects/dropDown"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/dropDown.json"
         },
         {
-          "$ref": "#/effects/slider"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/slider.json"
         },
         {
-          "$ref": "#/effects/slider"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/slider.json"
         },
         {
-          "$ref": "#/effects/slider"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/slider.json"
         }
       ],
       "type": "array"

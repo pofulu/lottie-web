@@ -23,7 +23,7 @@
       "description": "Stroke Line Cap",
       "oneOf": [
         {
-          "$ref": "#/helpers/lineCap"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/helpers/lineCap.json"
         }
       ],
       "type": "number"
@@ -33,7 +33,7 @@
       "description": "Stroke Line Join",
       "oneOf": [
         {
-          "$ref": "#/helpers/lineJoin"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/helpers/lineJoin.json"
         }
       ],
       "type": "number"
@@ -48,10 +48,10 @@
       "description": "Stroke Opacity",
       "oneOf": [
         {
-          "$ref": "#/properties/Value"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/Value.json"
         },
         {
-          "$ref": "#/properties/valueKeyframed"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
         }
       ],
       "type": "object"
@@ -61,10 +61,10 @@
       "description": "Stroke Width",
       "oneOf": [
         {
-          "$ref": "#/properties/Value"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/Value.json"
         },
         {
-          "$ref": "#/properties/valueKeyframed"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
         }
       ],
       "type": "object"
@@ -74,10 +74,10 @@
       "description": "Stroke Color",
       "oneOf": [
         {
-          "$ref": "#/properties/multiDimensional"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/multiDimensional.json"
         },
         {
-          "$ref": "#/properties/multiDimensionalKeyframed"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/multiDimensionalKeyframed.json"
         }
       ],
       "type": "object"

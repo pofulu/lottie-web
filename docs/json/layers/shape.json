@@ -13,7 +13,7 @@
       "description": "Transform properties",
       "oneOf": [
         {
-          "$ref": "#/helpers/transform"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/helpers/transform.json"
         }
       ],
       "type": "object"
@@ -23,7 +23,7 @@
       "description": "Auto-Orient along path AE property.",
       "oneOf": [
         {
-          "$ref": "#/helpers/boolean"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/helpers/boolean.json"
         }
       ],
       "type": "number",
@@ -34,7 +34,7 @@
       "description": "Blend Mode",
       "oneOf": [
         {
-          "$ref": "#/helpers/blendMode"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/helpers/blendMode.json"
         }
       ],
       "type": "number",
@@ -45,7 +45,7 @@
       "description": "3d layer flag",
       "oneOf": [
         {
-          "$ref": "#/helpers/boolean"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/helpers/boolean.json"
         }
       ],
       "type": "number",
@@ -97,7 +97,7 @@
       "items": {
         "oneOf": [
           {
-            "$ref": "#/helpers/mask"
+            "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/helpers/mask.json"
           }
         ],
         "type": "object"
@@ -110,7 +110,7 @@
       "items": {
         "oneOf": [
           {
-            "$ref": "#/effects/index"
+            "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/index.json"
           }
         ],
         "type": "object"
@@ -134,43 +134,43 @@
       "items": {
         "oneOf": [
           {
-            "$ref": "#/shapes/shape"
+            "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/shapes/shape.json"
           },
           {
-            "$ref": "#/shapes/rect"
+            "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/shapes/rect.json"
           },
           {
-            "$ref": "#/shapes/ellipse"
+            "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/shapes/ellipse.json"
           },
           {
-            "$ref": "#/shapes/star"
+            "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/shapes/star.json"
           },
           {
-            "$ref": "#/shapes/fill"
+            "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/shapes/fill.json"
           },
           {
-            "$ref": "#/shapes/gFill"
+            "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/shapes/gFill.json"
           },
           {
-            "$ref": "#/shapes/gStroke"
+            "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/shapes/gStroke.json"
           },
           {
-            "$ref": "#/shapes/stroke"
+            "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/shapes/stroke.json"
           },
           {
-            "$ref": "#/shapes/merge"
+            "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/shapes/merge.json"
           },
           {
-            "$ref": "#/shapes/trim"
+            "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/shapes/trim.json"
           },
           {
-            "$ref": "#/shapes/group"
+            "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/shapes/group.json"
           },
           {
-            "$ref": "#/shapes/roundedCorners"
+            "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/shapes/roundedCorners.json"
           },
           {
-            "$ref": "#/shapes/repeater"
+            "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/shapes/repeater.json"
           }
         ],
         "type": "object"

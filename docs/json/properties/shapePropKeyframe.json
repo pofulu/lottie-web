@@ -7,7 +7,7 @@
       "extended_name": "Start",
       "items": {
         "type": "object",
-        "$ref": "#/properties/shapeProp"
+        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/shapeProp.json"
       },
       "type": "array"
     },

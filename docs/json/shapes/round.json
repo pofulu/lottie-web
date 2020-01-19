@@ -23,10 +23,10 @@
       "description": "Rounded Corner Radius",
       "oneOf": [
         {
-          "$ref": "#/properties/Value"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/Value.json"
         },
         {
-          "$ref": "#/properties/valueKeyframed"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
         }
       ],
       "type": "object"

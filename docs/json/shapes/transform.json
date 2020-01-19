@@ -12,10 +12,10 @@
       "description": "Shape Transform Anchor Point",
       "oneOf": [
         {
-          "$ref": "#/properties/multiDimensional"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/multiDimensional.json"
         },
         {
-          "$ref": "#/properties/multiDimensionalKeyframed"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/multiDimensionalKeyframed.json"
         }
       ],
       "type": "object"
@@ -25,10 +25,10 @@
       "description": "Shape Transform Position",
       "oneOf": [
         {
-          "$ref": "#/properties/multiDimensional"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/multiDimensional.json"
         },
         {
-          "$ref": "#/properties/multiDimensionalKeyframed"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/multiDimensionalKeyframed.json"
         }
       ],
       "type": "object"
@@ -38,10 +38,10 @@
       "description": "Shape Transform Scale",
       "oneOf": [
         {
-          "$ref": "#/properties/multiDimensional"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/multiDimensional.json"
         },
         {
-          "$ref": "#/properties/multiDimensionalKeyframed"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/multiDimensionalKeyframed.json"
         }
       ],
       "type": "object"
@@ -51,10 +51,10 @@
       "description": "Shape Transform Rotation",
       "oneOf": [
         {
-          "$ref": "#/properties/value"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/value.json"
         },
         {
-          "$ref": "#/properties/valueKeyframed"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
         }
       ],
       "type": "object"
@@ -64,10 +64,10 @@
       "description": "Shape Transform Opacity",
       "oneOf": [
         {
-          "$ref": "#/properties/value"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/value.json"
         },
         {
-          "$ref": "#/properties/valueKeyframed"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
         }
       ],
       "type": "object"
@@ -77,10 +77,10 @@
       "description": "Shape Transform Skew",
       "oneOf": [
         {
-          "$ref": "#/properties/value"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/value.json"
         },
         {
-          "$ref": "#/properties/valueKeyframed"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
         }
       ],
       "type": "object"
@@ -90,10 +90,10 @@
       "description": "Shape Transform Skew Axis",
       "oneOf": [
         {
-          "$ref": "#/properties/value"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/value.json"
         },
         {
-          "$ref": "#/properties/valueKeyframed"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
         }
       ],
       "type": "object"

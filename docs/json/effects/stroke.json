@@ -29,37 +29,37 @@
       "type": "array",
       "items": [
         {
-          "$ref": "#/effects/color"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/color.json"
         },
         {
-          "$ref": "#/effects/checkbox"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/checkbox.json"
         },
         {
-          "$ref": "#/effects/checkbox"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/checkbox.json"
         },
         {
-          "$ref": "#/effects/color"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/color.json"
         },
         {
-          "$ref": "#/effects/slider"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/slider.json"
         },
         {
-          "$ref": "#/effects/slider"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/slider.json"
         },
         {
-          "$ref": "#/effects/slider"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/slider.json"
         },
         {
-          "$ref": "#/effects/slider"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/slider.json"
         },
         {
-          "$ref": "#/effects/slider"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/slider.json"
         },
         {
-          "$ref": "#/effects/dropDown"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/dropDown.json"
         },
         {
-          "$ref": "#/effects/dropDown"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/dropDown.json"
         }
       ]
     }

@@ -29,55 +29,55 @@
       "items": {
         "oneOf": [
           {
-            "$ref": "#/shapes/shape",
+            "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/shapes/shape.json",
             "value": "sh"
           },
           {
-            "$ref": "#/shapes/rect",
+            "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/shapes/rect.json",
             "value": "rc"
           },
           {
-            "$ref": "#/shapes/ellipse",
+            "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/shapes/ellipse.json",
             "value": "el"
           },
           {
-            "$ref": "#/shapes/star",
+            "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/shapes/star.json",
             "value": "sr"
           },
           {
-            "$ref": "#/shapes/fill",
+            "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/shapes/fill.json",
             "value": "fl"
           },
           {
-            "$ref": "#/shapes/gFill",
+            "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/shapes/gFill.json",
             "value": "gf"
           },
           {
-            "$ref": "#/shapes/gStroke",
+            "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/shapes/gStroke.json",
             "value": "gs"
           },
           {
-            "$ref": "#/shapes/stroke",
+            "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/shapes/stroke.json",
             "value": "st"
           },
           {
-            "$ref": "#/shapes/merge",
+            "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/shapes/merge.json",
             "value": "mm"
           },
           {
-            "$ref": "#/shapes/trim",
+            "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/shapes/trim.json",
             "value": "tm"
           },
           {
-            "$ref": "#/shapes/group",
+            "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/shapes/group.json",
             "value": "gr"
           },
           {
-            "$ref": "#/shapes/roundedCorners",
+            "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/shapes/roundedCorners.json",
             "value": "rd"
           },
           {
-            "$ref": "#/shapes/transform",
+            "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/shapes/transform.json",
             "value": "tr"
           }
         ],

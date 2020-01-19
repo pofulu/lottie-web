@@ -13,7 +13,7 @@
       "description": "Transform properties",
       "oneOf": [
         {
-          "$ref": "#/helpers/transform"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/helpers/transform.json"
         }
       ],
       "type": "object"
@@ -23,7 +23,7 @@
       "description": "Auto-Orient along path AE property.",
       "oneOf": [
         {
-          "$ref": "#/helpers/boolean"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/helpers/boolean.json"
         }
       ],
       "type": "number",
@@ -34,7 +34,7 @@
       "description": "Blend Mode",
       "oneOf": [
         {
-          "$ref": "#/helpers/blendMode"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/helpers/blendMode.json"
         }
       ],
       "type": "number",
@@ -45,7 +45,7 @@
       "description": "3d layer flag",
       "oneOf": [
         {
-          "$ref": "#/helpers/boolean"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/helpers/boolean.json"
         }
       ],
       "type": "number",
@@ -97,7 +97,7 @@
       "items": {
         "oneOf": [
           {
-            "$ref": "#/helpers/mask"
+            "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/helpers/mask.json"
           }
         ],
         "type": "object"
@@ -109,7 +109,7 @@
       "description": "Auto-Orient along path AE property.",
       "oneOf": [
         {
-          "$ref": "#/helpers/boolean"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/helpers/boolean.json"
         }
       ],
       "type": "number"
@@ -143,10 +143,10 @@
                     "description": "Text animator Position",
                     "oneOf": [
                       {
-                        "$ref": "#/properties/multiDimensional"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/multiDimensional.json"
                       },
                       {
-                        "$ref": "#/properties/multiDimensionalKeyframed"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/multiDimensionalKeyframed.json"
                       }
                     ],
                     "type": "object"
@@ -156,10 +156,10 @@
                     "description": "Text animator Anchor Point",
                     "oneOf": [
                       {
-                        "$ref": "#/properties/multiDimensional"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/multiDimensional.json"
                       },
                       {
-                        "$ref": "#/properties/multiDimensionalKeyframed"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/multiDimensionalKeyframed.json"
                       }
                     ],
                     "type": "object"
@@ -169,10 +169,10 @@
                     "description": "Text animator Scale",
                     "oneOf": [
                       {
-                        "$ref": "#/properties/multiDimensional"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/multiDimensional.json"
                       },
                       {
-                        "$ref": "#/properties/multiDimensionalKeyframed"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/multiDimensionalKeyframed.json"
                       }
                     ],
                     "type": "object"
@@ -182,10 +182,10 @@
                     "description": "Text animator Skew",
                     "oneOf": [
                       {
-                        "$ref": "#/properties/value"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/value.json"
                       },
                       {
-                        "$ref": "#/properties/valueKeyframed"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
                       }
                     ],
                     "type": "object"
@@ -195,10 +195,10 @@
                     "description": "Text animator Skew Axis",
                     "oneOf": [
                       {
-                        "$ref": "#/properties/value"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/value.json"
                       },
                       {
-                        "$ref": "#/properties/valueKeyframed"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
                       }
                     ],
                     "type": "object"
@@ -208,10 +208,10 @@
                     "description": "Text animator Rotation",
                     "oneOf": [
                       {
-                        "$ref": "#/properties/value"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/value.json"
                       },
                       {
-                        "$ref": "#/properties/valueKeyframed"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
                       }
                     ],
                     "type": "object"
@@ -221,10 +221,10 @@
                     "description": "Text animator Opacity",
                     "oneOf": [
                       {
-                        "$ref": "#/properties/value"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/value.json"
                       },
                       {
-                        "$ref": "#/properties/valueKeyframed"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
                       }
                     ],
                     "type": "object"
@@ -234,10 +234,10 @@
                     "description": "Text animator Stroke Width",
                     "oneOf": [
                       {
-                        "$ref": "#/properties/value"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/value.json"
                       },
                       {
-                        "$ref": "#/properties/valueKeyframed"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
                       }
                     ],
                     "type": "object"
@@ -247,10 +247,10 @@
                     "description": "Text animator Stroke Color",
                     "oneOf": [
                       {
-                        "$ref": "#/properties/multiDimensional"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/multiDimensional.json"
                       },
                       {
-                        "$ref": "#/properties/multiDimensionalKeyframed"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/multiDimensionalKeyframed.json"
                       }
                     ],
                     "type": "object"
@@ -260,10 +260,10 @@
                     "description": "Text animator Fill Color",
                     "oneOf": [
                       {
-                        "$ref": "#/properties/multiDimensional"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/multiDimensional.json"
                       },
                       {
-                        "$ref": "#/properties/multiDimensionalKeyframed"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/multiDimensionalKeyframed.json"
                       }
                     ],
                     "type": "object"
@@ -273,10 +273,10 @@
                     "description": "Text animator Fill Hue",
                     "oneOf": [
                       {
-                        "$ref": "#/properties/value"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/value.json"
                       },
                       {
-                        "$ref": "#/properties/valueKeyframed"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
                       }
                     ],
                     "type": "object"
@@ -286,10 +286,10 @@
                     "description": "Text animator Fill Saturation",
                     "oneOf": [
                       {
-                        "$ref": "#/properties/value"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/value.json"
                       },
                       {
-                        "$ref": "#/properties/valueKeyframed"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
                       }
                     ],
                     "type": "object"
@@ -299,10 +299,10 @@
                     "description": "Text animator Fill Brightness",
                     "oneOf": [
                       {
-                        "$ref": "#/properties/value"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/value.json"
                       },
                       {
-                        "$ref": "#/properties/valueKeyframed"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
                       }
                     ],
                     "type": "object"
@@ -312,10 +312,10 @@
                     "description": "Text animator Tracking",
                     "oneOf": [
                       {
-                        "$ref": "#/properties/value"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/value.json"
                       },
                       {
-                        "$ref": "#/properties/valueKeyframed"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
                       }
                     ],
                     "type": "object"
@@ -337,10 +337,10 @@
                     "description": "Selector Max Amount",
                     "oneOf": [
                       {
-                        "$ref": "#/properties/value"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/value.json"
                       },
                       {
-                        "$ref": "#/properties/valueKeyframed"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
                       }
                     ],
                     "type": "number"
@@ -350,10 +350,10 @@
                     "description": "Levels Min Ease",
                     "oneOf": [
                       {
-                        "$ref": "#/properties/value"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/value.json"
                       },
                       {
-                        "$ref": "#/properties/valueKeyframed"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
                       }
                     ],
                     "type": "number"
@@ -363,10 +363,10 @@
                     "description": "Levels Max Ease",
                     "oneOf": [
                       {
-                        "$ref": "#/properties/value"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/value.json"
                       },
                       {
-                        "$ref": "#/properties/valueKeyframed"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
                       }
                     ],
                     "type": "number"
@@ -376,7 +376,7 @@
                     "description": "Selector Randomize Order",
                     "oneOf": [
                       {
-                        "$ref": "#/helpers/boolean"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/helpers/boolean.json"
                       }
                     ],
                     "type": "number"
@@ -386,7 +386,7 @@
                     "description": "Selector Shape",
                     "oneOf": [
                       {
-                        "$ref": "#/helpers/textShape"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/helpers/textShape.json"
                       }
                     ],
                     "type": "number"
@@ -396,7 +396,7 @@
                     "description": "Selector Based On",
                     "oneOf": [
                       {
-                        "$ref": "#/helpers/textBased"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/helpers/textBased.json"
                       }
                     ],
                     "type": "number"
@@ -411,10 +411,10 @@
                     "description": "Selector Start",
                     "oneOf": [
                       {
-                        "$ref": "#/properties/value"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/value.json"
                       },
                       {
-                        "$ref": "#/properties/valueKeyframed"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
                       }
                     ],
                     "type": "number"
@@ -424,10 +424,10 @@
                     "description": "Selector End",
                     "oneOf": [
                       {
-                        "$ref": "#/properties/value"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/value.json"
                       },
                       {
-                        "$ref": "#/properties/valueKeyframed"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
                       }
                     ],
                     "type": "number"
@@ -437,10 +437,10 @@
                     "description": "Selector Offset",
                     "oneOf": [
                       {
-                        "$ref": "#/properties/value"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/value.json"
                       },
                       {
-                        "$ref": "#/properties/valueKeyframed"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
                       }
                     ],
                     "type": "number"
@@ -462,7 +462,7 @@
               "description": "Text Anchor Point Grouping",
               "oneOf": [
                 {
-                  "$ref": "#/helpers/textGrouping"
+                  "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/helpers/textGrouping.json"
                 }
               ],
               "type": "number"
@@ -472,10 +472,10 @@
               "description": "Text Grouping Alignment",
               "oneOf": [
                 {
-                  "$ref": "#/properties/multiDimensional"
+                  "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/multiDimensional.json"
                 },
                 {
-                  "$ref": "#/properties/multiDimensionalKeyframed"
+                  "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/multiDimensionalKeyframed.json"
                 }
               ],
               "type": "number"

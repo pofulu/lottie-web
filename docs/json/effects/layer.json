@@ -28,7 +28,7 @@
       "description": "Effect value.",
       "oneOf": [
         {
-          "$ref": "#/properties/value"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/value.json"
         }
       ],
       "type": "object"

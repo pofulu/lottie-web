@@ -28,10 +28,10 @@
       "description": "Shape's vertices",
       "oneOf": [
         {
-          "$ref": "#/properties/shape"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/shape.json"
         },
         {
-          "$ref": "#/properties/shapeKeyframed"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/shapeKeyframed.json"
         }
       ],
       "type": "object"

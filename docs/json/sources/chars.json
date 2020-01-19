@@ -45,7 +45,7 @@
                     "description": "Character Items Keys",
                     "oneOf": [
                       {
-                        "$ref": "#/properties/shape"
+                        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/shape.json"
                       }
                     ],
                     "type": "object"

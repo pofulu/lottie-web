@@ -8,7 +8,7 @@
       "type": "array",
       "items": {
         "type": "object",
-        "$ref": "#/properties/offsetKeyframe"
+        "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/offsetKeyframe.json"
       }
     },
     "x": {

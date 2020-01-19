@@ -29,10 +29,10 @@
       "description": "Ellipse's position",
       "oneOf": [
         {
-          "$ref": "#/properties/multiDimensional"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/multiDimensional.json"
         },
         {
-          "$ref": "#/properties/multiDimensionalKeyframed"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/multiDimensionalKeyframed.json"
         }
       ],
       "type": "object"
@@ -42,10 +42,10 @@
       "description": "Ellipse's size",
       "oneOf": [
         {
-          "$ref": "#/properties/multiDimensional"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/multiDimensional.json"
         },
         {
-          "$ref": "#/properties/multiDimensionalKeyframed"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/multiDimensionalKeyframed.json"
         }
       ],
       "type": "object"

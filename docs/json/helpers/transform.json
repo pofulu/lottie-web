@@ -7,10 +7,10 @@
       "description": "Transform Anchor Point",
       "oneOf": [
         {
-          "$ref": "#/properties/multiDimensional"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/multiDimensional.json"
         },
         {
-          "$ref": "#/properties/multiDimensionalKeyframed"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/multiDimensionalKeyframed.json"
         },
       ],
       "default": {"a":0, "k":[0, 0, 0]},
@@ -21,10 +21,10 @@
       "description": "Transform Position",
       "oneOf": [
         {
-          "$ref": "#/properties/multiDimensional"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/multiDimensional.json"
         },
         {
-          "$ref": "#/properties/multiDimensionalKeyframed"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/multiDimensionalKeyframed.json"
         }
       ],
       "default": {"a":0, "k":[0, 0, 0]},
@@ -35,10 +35,10 @@
       "description": "Transform Scale",
       "oneOf": [
         {
-          "$ref": "#/properties/multiDimensional"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/multiDimensional.json"
         },
         {
-          "$ref": "#/properties/multiDimensionalKeyframed"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/multiDimensionalKeyframed.json"
         }
       ],
       "default": {"a":0, "k":[100, 100, 100]},
@@ -49,10 +49,10 @@
       "description": "Transform Rotation",
       "oneOf": [
         {
-          "$ref": "#/properties/value"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/value.json"
         },
         {
-          "$ref": "#/properties/valueKeyframed"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
         }
       ],
       "default": {"a":0, "k":0},
@@ -63,10 +63,10 @@
       "description": "Transform Opacity",
       "oneOf": [
         {
-          "$ref": "#/properties/value"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/value.json"
         },
         {
-          "$ref": "#/properties/valueKeyframed"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
         }
       ],
       "default": {"a":0, "k":100},
@@ -77,10 +77,10 @@
       "description": "Transform Position X",
       "oneOf": [
         {
-          "$ref": "#/properties/value"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/value.json"
         },
         {
-          "$ref": "#/properties/valueKeyframed"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
         }
       ],
       "default": {"a":0, "k":0},
@@ -91,10 +91,10 @@
       "description": "Transform Position Y",
       "oneOf": [
         {
-          "$ref": "#/properties/value"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/value.json"
         },
         {
-          "$ref": "#/properties/valueKeyframed"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
         }
       ],
       "default": {"a":0, "k":0},
@@ -105,10 +105,10 @@
       "description": "Transform Position Z",
       "oneOf": [
         {
-          "$ref": "#/properties/value"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/value.json"
         },
         {
-          "$ref": "#/properties/valueKeyframed"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
         }
       ],
       "default": {"a":0, "k":0},
@@ -119,10 +119,10 @@
       "description": "Transform Skew",
       "oneOf": [
         {
-          "$ref": "#/properties/value"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/value.json"
         },
         {
-          "$ref": "#/properties/valueKeyframed"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
         }
       ],
       "default": {"a":0, "k":0},
@@ -133,10 +133,10 @@
       "description": "Transform Skew Axis",
       "oneOf": [
         {
-          "$ref": "#/properties/value"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/value.json"
         },
         {
-          "$ref": "#/properties/valueKeyframed"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
         }
       ],
       "default": {"a":0, "k":0},

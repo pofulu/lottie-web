@@ -29,100 +29,100 @@
       "type": "array",
       "items": [
         {
-          "$ref": "#/effects/dropDown"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/dropDown.json"
         },
         {
-          "$ref": "#/effects/noValue"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/noValue.json"
         },
         {
-          "$ref": "#/effects/noValue"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/noValue.json"
         },
         {
-          "$ref": "#/effects/slider"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/slider.json"
         },
         {
-          "$ref": "#/effects/slider"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/slider.json"
         },
         {
-          "$ref": "#/effects/slider"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/slider.json"
         },
         {
-          "$ref": "#/effects/slider"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/slider.json"
         },
         {
-          "$ref": "#/effects/slider"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/slider.json"
         },
         {
-          "$ref": "#/effects/noValue"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/noValue.json"
         },
         {
-          "$ref": "#/effects/slider"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/slider.json"
         },
         {
-          "$ref": "#/effects/slider"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/slider.json"
         },
         {
-          "$ref": "#/effects/slider"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/slider.json"
         },
         {
-          "$ref": "#/effects/slider"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/slider.json"
         },
         {
-          "$ref": "#/effects/slider"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/slider.json"
         },
         {
-          "$ref": "#/effects/noValue"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/noValue.json"
         },
         {
-          "$ref": "#/effects/slider"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/slider.json"
         },
         {
-          "$ref": "#/effects/slider"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/slider.json"
         },
         {
-          "$ref": "#/effects/slider"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/slider.json"
         },
         {
-          "$ref": "#/effects/slider"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/slider.json"
         },
         {
-          "$ref": "#/effects/slider"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/slider.json"
         },
         {
-          "$ref": "#/effects/noValue"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/noValue.json"
         },
         {
-          "$ref": "#/effects/slider"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/slider.json"
         },
         {
-          "$ref": "#/effects/slider"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/slider.json"
         },
         {
-          "$ref": "#/effects/slider"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/slider.json"
         },
         {
-          "$ref": "#/effects/slider"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/slider.json"
         },
         {
-          "$ref": "#/effects/slider"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/slider.json"
         },
         {
-          "$ref": "#/effects/noValue"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/noValue.json"
         },
         {
-          "$ref": "#/effects/slider"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/slider.json"
         },
         {
-          "$ref": "#/effects/slider"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/slider.json"
         },
         {
-          "$ref": "#/effects/slider"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/slider.json"
         },
         {
-          "$ref": "#/effects/slider"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/slider.json"
         },
         {
-          "$ref": "#/effects/slider"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/slider.json"
         }
       ]
     }

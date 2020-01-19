@@ -29,7 +29,7 @@
       "items": {
         "oneOf": [
           {
-            "$ref": "#/effects/index"
+            "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/index.json"
           }
         ],
         "type": "object"

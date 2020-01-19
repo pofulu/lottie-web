@@ -23,10 +23,10 @@
       "description": "Number of Copies",
       "oneOf": [
         {
-          "$ref": "#/properties/Value"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/Value.json"
         },
         {
-          "$ref": "#/properties/valueKeyframed"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
         }
       ],
       "type": "object",
@@ -37,10 +37,10 @@
       "description": "Offset of Copies",
       "oneOf": [
         {
-          "$ref": "#/properties/Value"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/Value.json"
         },
         {
-          "$ref": "#/properties/valueKeyframed"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
         }
       ],
       "type": "object",
@@ -51,7 +51,7 @@
       "description": "Composite of copies",
       "oneOf": [
         {
-          "$ref": "#/helpers/composite"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/helpers/composite.json"
         }
       ],
       "type": "number",
@@ -62,7 +62,7 @@
       "description": "Transform values for each repeater copy",
       "oneOf": [
         {
-          "$ref": "#/helpers/transform"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/helpers/transform.json"
         }
       ],
       "type": "object"

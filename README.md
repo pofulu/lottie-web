@@ -1,3 +1,28 @@
+# What's Different in This Fork?
+
+When I try to add [json.schema in VSCode](https://code.visualstudio.com/docs/languages/json#_mapping-in-the-user-settings), I got an error from the editor. It seems that VSCode not support relative path of json schema. The relational issues is [Here](https://github.com/microsoft/vscode/issues/69308).
+
+So I change all relative path to full URL.
+
+You could just add this schema URL: https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/animation.json
+
+In my case, I add the following code to `setting.json`:
+```json
+ "json.schemas": [
+        {
+            "fileMatch": [
+                "/data.json"
+            ],
+            "url": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/animation.json",
+        },
+    ]
+```
+
+---
+
+The following is same to original README.md.
+
+---
 # Lottie for Web, [Android](https://github.com/airbnb/lottie-android), [iOS](https://github.com/airbnb/lottie-ios), [React Native](https://github.com/airbnb/lottie-react-native), and [Windows](https://aka.ms/lottie)
 
 Lottie is a mobile library for Web,  and iOS that parses [Adobe After Effects](http://www.adobe.com/products/aftereffects.html) animations exported as json with [Bodymovin](https://github.com/airbnb/lottie-web) and renders them natively on mobile!

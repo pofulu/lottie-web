@@ -21,15 +21,10 @@
       "extended_name": "Property Index",
       "type": "string"
     },
-    "ti": {
-      "description": "In Spatial Tangent. Only for spatial properties. Array of numbers.",
-      "extended_name": "In Tangent",
-      "type": "array"
-    },
-    "to": {
-      "description": "Out Spatial Tangent. Only for spatial properties. Array of numbers.",
-      "extended_name": "Out Tangent",
-      "type": "array"
+    "a": {
+      "description": "Defines if property is animated",
+      "extended_name": "Animated",
+      "type": "number"
     }
   }
 }

@@ -30,14 +30,6 @@
       "title": "Opacity",
       "description": "Mask opacity.",
       "type": "object",
-      "oneOf": [
-        {
-          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/const.json"
-        },
-        {
-          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/constKeyframed.json"
-        }
-      ],
       "default": {
         "a": 0,
         "k": 100

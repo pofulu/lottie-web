@@ -30,9 +30,6 @@
       "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/customValue.json"
     },
     {
-      "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/layerIndex.json"
-    },
-    {
       "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/effects/tint.json"
     },
     {

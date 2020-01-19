@@ -19,9 +19,6 @@
             "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/layers/solid.json"
           },
           {
-            "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/layers/comp.json"
-          },
-          {
             "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/layers/image.json"
           },
           {

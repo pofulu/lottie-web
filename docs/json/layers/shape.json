@@ -167,9 +167,6 @@
             "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/shapes/group.json"
           },
           {
-            "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/shapes/roundedCorners.json"
-          },
-          {
             "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/shapes/repeater.json"
           }
         ],

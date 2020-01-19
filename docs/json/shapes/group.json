@@ -73,10 +73,6 @@
             "value": "gr"
           },
           {
-            "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/shapes/roundedCorners.json",
-            "value": "rd"
-          },
-          {
             "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/shapes/transform.json",
             "value": "tr"
           }

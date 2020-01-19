@@ -41,7 +41,7 @@
       "description": "Star's inner radius. (Star only)",
       "oneOf": [
         {
-          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/Value.json"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/value.json"
         },
         {
           "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
@@ -54,7 +54,7 @@
       "description": "Star's inner roundness. (Star only)",
       "oneOf": [
         {
-          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/Value.json"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/value.json"
         },
         {
           "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
@@ -67,7 +67,7 @@
       "description": "Star's outer radius.",
       "oneOf": [
         {
-          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/Value.json"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/value.json"
         },
         {
           "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
@@ -80,7 +80,7 @@
       "description": "Star's outer roundness.",
       "oneOf": [
         {
-          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/Value.json"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/value.json"
         },
         {
           "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
@@ -93,7 +93,7 @@
       "description": "Star's rotation.",
       "oneOf": [
         {
-          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/Value.json"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/value.json"
         },
         {
           "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
@@ -106,7 +106,7 @@
       "description": "Star's number of points.",
       "oneOf": [
         {
-          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/Value.json"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/value.json"
         },
         {
           "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"

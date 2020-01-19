@@ -54,7 +54,7 @@
       "description": "Rect's rounded corners",
       "oneOf": [
         {
-          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/Value.json"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/value.json"
         },
         {
           "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"

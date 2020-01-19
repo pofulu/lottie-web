@@ -23,7 +23,7 @@
       "description": "Stroke Opacity",
       "oneOf": [
         {
-          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/Value.json"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/value.json"
         },
         {
           "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
@@ -77,7 +77,7 @@
       "description": "Gradient Highlight Length. Only if type is Radial",
       "oneOf": [
         {
-          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/Value.json"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/value.json"
         },
         {
           "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
@@ -90,7 +90,7 @@
       "description": "Highlight Angle. Only if type is Radial",
       "oneOf": [
         {
-          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/Value.json"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/value.json"
         },
         {
           "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"
@@ -108,7 +108,7 @@
       "description": "Gradient Stroke Width",
       "oneOf": [
         {
-          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/Value.json"
+          "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/value.json"
         },
         {
           "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/valueKeyframed.json"

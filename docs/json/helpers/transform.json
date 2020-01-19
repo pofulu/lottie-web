@@ -11,7 +11,7 @@
         },
         {
           "$ref": "https://raw.githubusercontent.com/pofulu/lottie-web/master/docs/json/properties/multiDimensionalKeyframed.json"
-        },
+        }
       ],
       "default": {"a":0, "k":[0, 0, 0]},
       "type": "object"

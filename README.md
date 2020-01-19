@@ -20,7 +20,7 @@ In my case, I add the following code to `setting.json`:
 
 ---
 
-The following is same to original README.md.
+The following is the same as the original README.md.
 
 ---
 # Lottie for Web, [Android](https://github.com/airbnb/lottie-android), [iOS](https://github.com/airbnb/lottie-ios), [React Native](https://github.com/airbnb/lottie-react-native), and [Windows](https://aka.ms/lottie)
